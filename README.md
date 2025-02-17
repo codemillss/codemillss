@@ -19,19 +19,22 @@
 ### [산업재해 신속 처리를 위한 산재패스 서비스](https://moel.go.kr/news/enews/report/enewsView.do?news_seq=15837)  
 **사용 기술:** Python, PyTorch, Scikit-learn, Sql
 
+### [재해조사 담당자의 업무 효율화를 위한 유사 판정서 추천 서비스]()  
+**사용 기술:** Python, PyTorch, Crawling, Sql
+
 ### [새싹 프로젝트](https://github.com/codemillss/nalanhi.git)
 - 장애 인식 개선을 위한 LLM 기반의 SNS 자동화 시스템 개발 (데이콘)  
 **사용 기술:** Python, PyTorch, Lang Chain ,Hugging Face Transformers, FastAPI, 
 
 ## Awards
 - **미래내일 일경험 사업 우수 사례 공모전(2023-11-20)**
-  - 팀 전진 우수상
+  - 산업재해 신속 처리를 위한 산재패스 서비스 우수상
     
 - **근로복지 연구원(2024.01.16)**  
-  - 산재 분류 개발 프로젝트를 통해 수상
-  - 
+  - 재해조사 담당자의 업무 효율화를 위한 유사 판정서 추천 서비스 근로복지 연구원장상
+    
 - **AI 결합 좋은 수업 추천하기 공모전**
-  - 자세한 내용 및 수상 연도 등을 기재
+  - 우수상
 
 - **Hallym University AI경진대회**
   - 인쇄 얼룩 제거 동상🥉

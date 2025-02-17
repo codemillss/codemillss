@@ -1,7 +1,7 @@
 # 안녕하세요
 
 ## About Me
-저는 **소통과 협력을 중시하는** 전진만입니다.<br/>
+저는 **소통과 협력을 중시하는** ooo입니다.<br/>
 **머신러닝과 로봇틱스**에 큰 관심을 가지고 있습니다.  
 - 🌱 **현재 배우고 있는 것:** [Computer Vision, LLM]  
 - 👯 **협업을 원하신다면:** [code10000@gmail.com]로 연락주세요.  
@@ -16,12 +16,31 @@
 - **Tools:** VSCode, Git, Docker, etc.
 
 ## Projects
-### [근로 복지공단 산재 분류 개발 프로젝트](프로젝트_링크)  
+### [산업재해 신속 처리를 위한 산재패스 서비스](https://moel.go.kr/news/enews/report/enewsView.do?news_seq=15837)  
 **사용 기술:** Python, PyTorch, Scikit-learn, Sql
 
 ### [새싹 프로젝트](https://github.com/codemillss/nalanhi.git)
 - 장애 인식 개선을 위한 LLM 기반의 SNS 자동화 시스템 개발 (데이콘)  
 **사용 기술:** Python, PyTorch, Lang Chain ,Hugging Face Transformers, FastAPI, 
+
+## Awards
+- **미래내일 일경험 사업 우수 사례 공모전(2023-11-20)**
+  - 팀 전진 우수상
+    
+- **근로복지 연구원(2024.01.16)**  
+  - 산재 분류 개발 프로젝트를 통해 수상
+  - 
+- **AI 결합 좋은 수업 추천하기 공모전**
+  - 자세한 내용 및 수상 연도 등을 기재
+
+- **Hallym University AI경진대회**
+  - 인쇄 얼룩 제거 동상🥉
+
+
+
+## Certifications
+- **ADSP (데이터 분석 준전문가)**: [2024년 03월 22일, 한국데이터산업진흥원]
+- **SQLD (SQL 개발자)**: [2024년 04월 05일, 한국데이터산업진흥원]
 
 ## GitHub Stats
 <!-- GitHub 통계 카드 (사용자명 수정 필요) -->

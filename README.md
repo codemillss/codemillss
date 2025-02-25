@@ -7,6 +7,10 @@
 - 👯 **협업을 원하신다면:** [ggzgcode10000@gmail.com]로 연락주세요.  
 - ⚡ **취미:** [음악 감상, 영화 감상, 여행]
 
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/codeman-jiggag-070652286/)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=ghost)](https://zgzgcode10000.tistory.com/)
+
 ## Skills & Tools
 <!-- 아래 이미지는 예시입니다. 원하는 기술 뱃지로 수정하세요! -->
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -50,7 +54,3 @@
 
 <!-- Top Languages 카드 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemillss&layout=compact&theme=radical)
-
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/codeman-jiggag-070652286/)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=ghost)](https://zgzgcode10000.tistory.com/)

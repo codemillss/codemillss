@@ -17,13 +17,13 @@
 - **Tools:** VSCode, Jupyter Lab, Git, Docker, etc.
 
 ## Projects
-### [산업재해 신속 처리를 위한 산재패스 서비스](https://moel.go.kr/news/enews/report/enewsView.do?news_seq=15837)  
+### [산업재해 신속 처리를 위한 산재패스 서비스(2023)](https://moel.go.kr/news/enews/report/enewsView.do?news_seq=15837)  
 **사용 기술:** Python, PyTorch, Scikit-learn, Sql
 
-### [재해조사 담당자의 업무 효율화를 위한 유사 판정서 추천 서비스]()  
+### [재해조사 담당자의 업무 효율화를 위한 유사 판정서 추천 서비스(2023)]()  
 **사용 기술:** Python, PyTorch, Crawling, Sql
 
-### [장애 인식 개선을 위한 LLM 기반의 SNS 자동화 시스템 개발]([https://github.com/Jinujara/nalanhi])
+### [장애 인식 개선을 위한 LLM 기반의 SNS 자동화 시스템 개발(2024)]([https://github.com/Jinujara/nalanhi])
 **사용 기술:** Python, PyTorch, Lang Chain ,Hugging Face Transformers, FastAPI, 
 
 ## Awards

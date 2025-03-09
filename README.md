@@ -1,5 +1,9 @@
 # 안녕하세요
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{codemillss}?pet-id=1" width="1000" height="120"/>
+</a>
+
 ## About Me
 저는 **소통과 협력을 중시하는** 전진만입니다.<br/>
 **머신러닝과 로봇틱스**에 큰 관심을 가지고 있습니다.  

@@ -7,7 +7,7 @@
 ## About Me
 저는 **소통과 협력을 중시하는** 전진만입니다.<br/>
 **머신러닝과 로봇틱스**에 큰 관심을 가지고 있습니다.  
-- 🌱 **현재 배우고 있는 것:** [Robotics, LLM, Computer Vision]  
+- 🌱 **현재 배우고 있는 것:** [Robotics, LLM, VLA(Vision Language Action Model)]  
 - 👯 **협업을 원하신다면:** [ggzgcode10000@gmail.com]로 연락주세요.  
 - ⚡ **취미:** [음악 감상, 영화 감상, 여행]
 

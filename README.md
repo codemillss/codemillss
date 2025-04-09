@@ -27,7 +27,7 @@
 ### [재해조사 담당자의 업무 효율화를 위한 유사 판정서 추천 서비스(2023)]()  
 **사용 기술:** Python, PyTorch, Crawling, Sql
 
-### [장애 인식 개선을 위한 LLM 기반의 SNS 자동화 시스템 개발(2024)]([https://github.com/Jinujara/nalanhi])
+### [장애 인식 개선을 위한 LLM 기반의 SNS 자동화 시스템 개발 프로젝트(2024)]([https://github.com/Jinujara/nalanhi])
 **사용 기술:** Python, PyTorch, Lang Chain ,Hugging Face Transformers, FastAPI, 
 
 ## Awards

@@ -1,54 +1,4 @@
-# 안녕하세요
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{codemillss}?pet-id=1" width="1000" height="120"/>
-</a>
-
-## About Me
-저는 **소통과 협력을 중시하는** 전진만입니다.<br/>
-**머신러닝과 로봇틱스**에 큰 관심을 가지고 있습니다.  
-- 🌱 **현재 배우고 있는 것:** [Robotics, LLM, VLA(Vision Language Action Model)]  
-- 👯 **협업을 원하신다면:** [ggzgcode10000@gmail.com]로 연락주세요.  
-- ⚡ **취미:** [음악 감상, 영화 감상, 여행]
-
-
-## Skills & Tools
-<!-- 아래 이미지는 예시입니다. 원하는 기술 뱃지로 수정하세요! -->
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-- **Tools:** VSCode, Jupyter Lab, Git, Docker, etc.
-
-## Projects
-### [산업재해 신속 처리를 위한 산재패스 서비스(2023)](https://moel.go.kr/news/enews/report/enewsView.do?news_seq=15837)  
-**사용 기술:** Python, PyTorch, Scikit-learn, Sql
-
-### [재해조사 담당자의 업무 효율화를 위한 유사 판정서 추천 서비스(2023)]()  
-**사용 기술:** Python, PyTorch, Crawling, Sql
-
-### [장애 인식 개선을 위한 LLM 기반의 SNS 자동화 시스템 개발 프로젝트(2024)]([https://github.com/Jinujara/nalanhi])
-**사용 기술:** Python, PyTorch, Lang Chain ,Hugging Face Transformers, FastAPI, 
-
-## Awards
-- **미래내일 일경험 사업 우수 사례 공모전(2023-11-20)**
-  - 산업재해 신속 처리를 위한 산재패스 서비스 (장려상)
-    
-- **근로복지 연구원(2024.01.16)**  
-  - 재해조사 담당자의 업무 효율화를 위한 유사 판정서 추천 서비스 (근로복지 연구원장상)
-    
-- **AI 결합 좋은 수업 추천하기 공모전**
-  - 우수상
-
-- **Hallym University AI경진대회**
-  - 인쇄 얼룩 제거 동상🥉
-
-## Paper
-- **전진만, 최종환*. "태양광 발전량 예측을 위한 유전자 알고리즘 기반의 다중 지역 기상 데이터 최적화 기법 연구." 정보과학회논문지 (under review)**
-
-## Certifications
-- **ADSP (데이터 분석 준전문가)**: [2024년 03월 22일, 한국데이터산업진흥원]
-- **SQLD (SQL 개발자)**: [2024년 04월 05일, 한국데이터산업진흥원]
+[2024년 04월 05일, 한국데이터산업진흥원]
 
 ## GitHub Stats
 <!-- GitHub 통계 카드 (사용자명 수정 필요) -->
@@ -61,3 +11,50 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/codeman-jiggag-070652286/)
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=ghost)](https://zgzgcode10000.tistory.com/)
 
+<div align="center">
+  <!-- 로봇 이미지를 Spline에서 내보낸 GIF나 고화질 PNG로 교체하세요 -->
+  <img src="https://your-image-url.com/memo-robot-header.png" width="100%" />
+
+  <h1>Say hello to Codemills</h1>
+  <p><i>Building digital intelligence with premium precision.</i></p>
+
+  <br/>
+
+  <div>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black&color=f5f5f7" />
+    <img src="https://img.shields.io/badge/Spline-FF0054?style=for-the-badge&logo=Spline&logoColor=white&color=000000" />
+    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white&color=f5f5f7" />
+  </div>
+</div>
+
+<br/>
+
+## 🛠 Skill Library (Mundane made magic)
+주변의 문제를 기술로 해결하는 'Digital Memo' 역할을 수행합니다.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Frontend Intuition</h3>
+      <p>Spline과 Three.js를 활용한 감각적인 3D 사용자 경험을 설계합니다.</p>
+    </td>
+    <td width="50%">
+      <img src="https://your-image-url.com/feature-1.jpg" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://your-image-url.com/feature-2.jpg" width="100%" />
+    </td>
+    <td width="50%">
+      <h3>Core Intelligence</h3>
+      <p>복잡한 비즈니스 로직을 효율적이고 확장 가능한 구조로 구축합니다.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codemillss&show_icons=true&theme=transparent&title_color=000000&text_color=555555&bg_color=ffffff00" width="400" />
+</div>

@@ -87,3 +87,61 @@
   <img src="https://render.gitanimals.org/lines/codemillss?pet-id=1" width="1000" height="120"/>
   <p style="color: #aaa;">Sunday, Jan 02 • Mountain View, CA • 45°F</p>
 </div>
+
+
+import React from 'react';
+import Spline from '@splinetool/react-spline';
+
+const Portfolio = () => {
+  return (
+    <div className="bg-white text-zinc-900 font-sans">
+      {/* Hero Section */}
+      <section className="h-screen relative flex items-center justify-center border-b border-zinc-100">
+        <div className="absolute inset-0">
+          <Spline scene="https://prod.spline.design/KFOE94cabK3ubctFT3K7AR9V/scene.splinecode" />
+        </div>
+        <div className="relative z-10 text-center">
+          <h1 className="text-[120px] font-bold tracking-tighter leading-none">Say hello to Jinman</h1>
+          <p className="text-xl mt-8 text-zinc-500">The helpful AI & Robotics researcher.</p>
+          <button className="mt-12 bg-[#F3E151] text-black px-10 py-4 rounded-full font-bold">Apply to Collaborate</button>
+        </div>
+      </section>
+
+      {/* Mundane Section (이미지/텍스트 레이아웃) */}
+      <section className="py-40 px-20 max-w-7xl mx-auto">
+        <h2 className="text-7xl font-bold mb-20">Logic made magic</h2>
+        <div className="grid grid-cols-2 gap-20">
+          <div>
+            <img src="이미지_로봇_주방.jpg" className="rounded-3xl shadow-2xl" />
+            <h3 className="text-3xl font-bold mt-10">Jinman works in the Lab</h3>
+            <p className="mt-4 text-zinc-500">산업재해 데이터부터 LLM 기반 지능형 시스템까지, 실질적인 가치를 창출합니다.</p>
+          </div>
+          <div className="pt-40">
+            <img src="이미지_로봇_거실.jpg" className="rounded-3xl shadow-2xl" />
+            <h3 className="text-3xl font-bold mt-10">Designed for real use</h3>
+            <p className="mt-4 text-zinc-500">복잡한 기술을 일상의 언어로 풀어내는 것이 전진만의 철학입니다.</p>
+          </div>
+        </div>
+      </section>
+
+      {/* Awards Section (Sunday 사이트 하단 블랙 카드 모사) */}
+      <section className="bg-zinc-900 text-white py-32 px-20 rounded-[3rem] mx-10 mb-20">
+        <div className="grid grid-cols-3 gap-10">
+          <div>
+            <h4 className="text-[#F3E151] uppercase tracking-widest text-sm mb-4">Award 01</h4>
+            <p className="text-2xl font-bold">고용노동부 장려상</p>
+            <p className="text-zinc-500 mt-2">산업재해 신속 처리 산재패스 서비스</p>
+          </div>
+          {/* ... 반복 ... */}
+        </div>
+      </section>
+
+      {/* Footer (Sunday 사이트 하단 옐로우 모사) */}
+      <footer className="bg-[#F3E151] py-10 px-20 flex justify-between items-center text-sm font-bold uppercase">
+        <div>Friday, Jan 02 • Mountain View, CA • 45°F</div>
+        <div>Sunday × Jinman Jeon</div>
+        <div>Curated by Codemillss</div>
+      </footer>
+    </div>
+  );
+};

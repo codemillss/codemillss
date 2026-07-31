@@ -50,13 +50,6 @@
 - **ADSP (데이터 분석 준전문가)**: [2024년 03월 22일, 한국데이터산업진흥원]
 - **SQLD (SQL 개발자)**: [2024년 04월 05일, 한국데이터산업진흥원]
 
-## GitHub Stats
-<!-- GitHub 통계 카드 (사용자명 수정 필요) -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=codemillss&show_icons=true&theme=radical)
-
-<!-- Top Languages 카드 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemillss&layout=compact&theme=radical)
-
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/codeman-jiggag-070652286/)
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=ghost)](https://zgzgcode10000.tistory.com/)

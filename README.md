@@ -52,7 +52,7 @@
 
 ## GitHub Stats
 <!-- GitHub 통계 카드 (사용자명 수정 필요) -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=codemillss&show_icons=true&theme=radical)
 
 <!-- Top Languages 카드 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemillss&layout=compact&theme=radical)

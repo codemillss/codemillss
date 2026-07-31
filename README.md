@@ -1,30 +1,27 @@
-# 안녕하세요!
-
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{codemillss}?pet-id=1" width="1000" height="120"/>
 </a>
 
+ 
 ## About Me
-저는 **소통과 협력을 중시하는** 전진만입니다.<br/>
+**안녕하세요! 소통과 협력을 중시하는** 전진만입니다.<br/>
 **머신러닝과 로봇틱스**에 큰 관심을 가지고 있습니다.  
-- 🌱 **현재 배우고 있는 것:** [Robotics, LLM, VLA(Vision Language Action Model)]  
+- 🌱 **현재 배우고 있는 것:** [Robotics, World Model, VLA(Vision Language Action Model)]  
 - 👯 **협업을 원하신다면:** [ggzgcode10000@gmail.com]로 연락주세요.  
 - ⚡ **취미:** [음악 감상, 영화 감상, 여행]
 
 
 ## Skills & Tools
-<!-- 아래 이미지는 예시입니다. 원하는 기술 뱃지로 수정하세요! -->
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-- **Tools:** VSCode, Jupyter Lab, Git, Docker, etc.
+- **Tools:** Torch, gym, Git, Docker, etc.
 
 ## Projects
 ### [산업재해 신속 처리를 위한 산재패스 서비스(2023)](https://moel.go.kr/news/enews/report/enewsView.do?news_seq=15837)  
 **사용 기술:** Python, PyTorch, Scikit-learn, Sql
 
-### [재해조사 담당자의 업무 효율화를 위한 유사 판정서 추천 서비스(2023)]()  
+### [재해조사 담당자의 업무 효율화를 위한 유사 판정서 추천 서비스(2023)](https://drive.google.com/file/d/17X7JKs13GTzpM5Sx1IrptOPqvL3Da-Qa/view?usp=share_link)  
 **사용 기술:** Python, PyTorch, Crawling, Sql
 
 ### [장애 인식 개선을 위한 LLM 기반의 SNS 자동화 시스템 개발 프로젝트(2024)](https://github.com/Jinujara/nalanhi)
@@ -32,7 +29,7 @@
 
 ## Awards
 - **미래내일 일경험 사업 우수 사례 공모전(2023-11-20)**
-  - 산업재해 신속 처리를 위한 산재패스 서비스 (장려상)
+  - [산업재해 신속 처리를 위한 산재패스 서비스 (장려상)](https://moel.go.kr/news/enews/report/enewsView.do?news_seq=15837)
     
 - **근로복지 연구원(2024.01.16)**  
   - 재해조사 담당자의 업무 효율화를 위한 유사 판정서 추천 서비스 (근로복지 연구원장상)

@@ -19,7 +19,7 @@
 
 
 ## Projects
-### [산업재해 신속 처리를 위한 산재패스 서비스(2023)](https://moel.go.kr/news/enews/report/enewsView.do?news_seq=15837)  
+### [산업재해 신속 처리를 위한 산재패스 서비스(2023)](https://docs.google.com/presentation/d/1Jogcw5HnfyeSrP0vSH_vy-2Vbs50Su3I/edit?usp=share_link&ouid=115728767509673934453&rtpof=true&sd=true)  
 **사용 기술:** Python, PyTorch, Scikit-learn, Sql
 
 ### [재해조사 담당자의 업무 효율화를 위한 유사 판정서 추천 서비스(2023)](https://drive.google.com/file/d/17X7JKs13GTzpM5Sx1IrptOPqvL3Da-Qa/view?usp=share_link)  

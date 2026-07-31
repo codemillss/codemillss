@@ -40,8 +40,8 @@
 - **AI 결합 좋은 수업 추천하기 공모전**
   - 우수상
 
-- **교내 AI경진대회**
-  - 인쇄 얼룩 제거 동상🥉
+- **HALLYM AI경진대회**
+  - U-NET 구조를 활용한 인쇄 얼룩 제거 동상🥉
 
 ## Paper
 - [**전진만, 최종환*. "태양광 발전량 예측을 위한 유전자 알고리즘 기반의 다중 지역 기상 데이터 최적화 기법 연구." 정보과학회논문지 52.8 (2025): 688-699**](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003231878)

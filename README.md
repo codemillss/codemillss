@@ -10,7 +10,7 @@
 - 👯 **협업을 원하신다면:** [ggzgcode10000@gmail.com]로 연락주세요.  
 - ⚡ **취미:** [음악 감상, 영화 감상, 여행]
 - 📄 **이력서 (CV):** [![CV HTML](https://img.shields.io/badge/Resume-HTML_View-green?style=flat-square&logo=html5&logoColor=white)](./temp/[전진만]_네이버랩스_제출용_CV_및_역량기술서.html)
-🔗 **Social Links:** [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=ghost)](https://zgzgcode10000.tistory.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/codeman-jiggag-070652286/)
+- 🔗 **Social Links:** [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=ghost)](https://zgzgcode10000.tistory.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/codeman-jiggag-070652286/)
 ## Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -48,7 +48,3 @@
 ## Certifications
 - **ADSP (데이터 분석 준전문가)**: [2024년 03월 22일, 한국데이터산업진흥원]
 - **SQLD (SQL 개발자)**: [2024년 04월 05일, 한국데이터산업진흥원]
-
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/codeman-jiggag-070652286/)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=ghost)](https://zgzgcode10000.tistory.com/)

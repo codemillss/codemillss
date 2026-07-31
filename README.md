@@ -9,13 +9,14 @@
 - 🌱 **현재 배우고 있는 것:** [Robotics, World Model, VLA(Vision Language Action Model)]  
 - 👯 **협업을 원하신다면:** [ggzgcode10000@gmail.com]로 연락주세요.  
 - ⚡ **취미:** [음악 감상, 영화 감상, 여행]
-
+- 📄 **이력서 (CV):** [![CV HTML](https://img.shields.io/badge/Resume-HTML_View-green?style=flat-square&logo=html5&logoColor=white)](./temp/[전진만]_네이버랩스_제출용_CV_및_역량기술서.html)
 
 ## Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 - **Tools:** Torch, gym, Git, Docker, etc.
+
 
 ## Projects
 ### [산업재해 신속 처리를 위한 산재패스 서비스(2023)](https://moel.go.kr/news/enews/report/enewsView.do?news_seq=15837)  
@@ -37,8 +38,10 @@
 - **AI 결합 좋은 수업 추천하기 공모전**
   - 우수상
 
-- **교내 AI경진대회**
-  - 인쇄 얼룩 제거 동상🥉
+- **HALLYM AI COMPETITION**
+  - 2D 인쇄물 noise(얼룩) 제거
+  - U-NET 출력단 activation function 조절
+  - 동상🥉
 
 ## Paper
 - [**전진만, 최종환*. "태양광 발전량 예측을 위한 유전자 알고리즘 기반의 다중 지역 기상 데이터 최적화 기법 연구." 정보과학회논문지 52.8 (2025): 688-699**](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003231878)

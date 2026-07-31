@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>전진만 - NAVER LABS 지원용 CV 및 역량기술서</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Pretendard:wght@300;400;500;600;700&display=swap');
+
+        :root {
+            --primary: #00c73c;
+            --primary-dark: #009e30;
+            --dark: #1e2022;
+            --gray-dark: #4e5968;
+            --gray-light: #f2f4f6;
+            --border: #e5e8eb;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif;
+            color: var(--dark);
+            background-color: #f8f9fa;
+            line-height: 1.6;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: 0 auto;
+            background: #ffffff;
+            padding: 50px 60px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+            border: 1px solid var(--border);
+        }
+
+        /* Header */
+        .header {
+            border-bottom: 2px solid var(--dark);
+            padding-bottom: 24px;
+            margin-bottom: 32px;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+        }
+
+        .header h1 {
+            font-size: 32px;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+            color: var(--dark);
+            margin-bottom: 6px;
+        }
+
+        .header .subtitle {
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--primary-dark);
+        }
+
+        .contact-info {
+            text-align: right;
+            font-size: 13px;
+            color: var(--gray-dark);
+            line-height: 1.8;
+        }
+
+        .contact-info a {
+            color: var(--dark);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .contact-info a:hover {
+            color: var(--primary-dark);
+            text-decoration: underline;
+        }
+
+        /* Section */
+        .section {
+            margin-bottom: 36px;
+        }
+
+        .section-title {
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--dark);
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 8px;
+            margin-bottom: 16px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .section-title::before {
+            content: '';
+            display: inline-block;
+            width: 4px;
+            height: 18px;
+            background-color: var(--primary);
+            border-radius: 2px;
+        }
+
+        /* Summary Badges */
+        .badge-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+            background: var(--gray-light);
+            padding: 16px 20px;
+            border-radius: 8px;
+            margin-bottom: 24px;
+        }
+
+        .badge-item {
+            font-size: 14px;
+        }
+
+        .badge-item strong {
+            color: var(--dark);
+            font-weight: 600;
+        }
+
+        /* Timeline Items */
+        .item {
+            margin-bottom: 24px;
+        }
+
+        .item:last-child {
+            margin-bottom: 0;
+        }
+
+        .item-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 6px;
+        }
+
+        .item-title {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--dark);
+        }
+
+        .item-date {
+            font-size: 13px;
+            color: #8b95a1;
+            font-weight: 500;
+        }
+
+        .item-sub {
+            font-size: 14px;
+            color: var(--primary-dark);
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+
+        .item-desc {
+            font-size: 14px;
+            color: var(--gray-dark);
+        }
+
+        .item-desc ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .item-desc li {
+            position: relative;
+            padding-left: 16px;
+            margin-bottom: 6px;
+            line-height: 1.55;
+        }
+
+        .item-desc li::before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            color: var(--primary-dark);
+            font-weight: bold;
+        }
+
+        /* Link Buttons */
+        .link-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            font-size: 12px;
+            font-weight: 600;
+            color: #0056b3;
+            background: #eef5ff;
+            padding: 3px 8px;
+            border-radius: 4px;
+            text-decoration: none;
+            margin-left: 4px;
+            margin-bottom: 4px;
+        }
+
+        .link-btn:hover {
+            background: #d8e8ff;
+            text-decoration: underline;
+        }
+
+        /* Print Controls */
+        .print-control {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background: var(--dark);
+            color: white;
+            padding: 14px 24px;
+            border-radius: 30px;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+            border: none;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: all 0.2s ease;
+        }
+
+        .print-control:hover {
+            transform: translateY(-2px);
+            background: #000;
+        }
+
+        @media print {
+            body {
+                background: white;
+                padding: 0;
+            }
+            .container {
+                box-shadow: none;
+                border: none;
+                padding: 0;
+                max-width: 100%;
+            }
+            .print-control {
+                display: none;
+            }
+            .link-btn {
+                background: transparent;
+                padding: 0;
+                color: #0056b3;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <button class="print-control" onclick="window.print()">
+        🖨️ PDF로 저장하기 (Cmd + P)
+    </button>
+
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <div>
+                <h1>전진만 (Jinman Jeon)</h1>
+                <div class="subtitle">Embodied AI Research Engineer Candidate</div>
+            </div>
+            <div class="contact-info">
+                <div>📧 <a href="mailto:ggzgcode10000@gmail.com">ggzgcode10000@gmail.com</a></div>
+                <div>📞 010-9076-3464</div>
+                <div>📍 강원특별자치도 춘천시 퇴계로</div>
+                <div>📝 <a href="https://zgzgcode10000.tistory.com/" target="_blank">기술 블로그 (tistory.com)</a></div>
+            </div>
+        </div>
+
+        <!-- Summary -->
+        <div class="section">
+            <div class="section-title">학업 성과 및 기술 스택</div>
+            <div class="badge-grid">
+                <div class="badge-item"><strong>주전공</strong>: 데이터사이언스 (GPA 3.89 / 4.5)</div>
+                <div class="badge-item"><strong>복수전공</strong>: 빅데이터공학 (GPA 3.99 / 4.5)</div>
+                <div class="badge-item"><strong>주요 언어 & 툴</strong>: Python, PyTorch, R, SQL, OpenCV</div>
+                <div class="badge-item"><strong>자격증</strong>: SQLD, ADsP, MOS Master</div>
+            </div>
+        </div>
+
+        <!-- Publications -->
+        <div class="section">
+            <div class="section-title">논문 실적 (Publications)</div>
+            <div class="item">
+                <div class="item-header">
+                    <div class="item-title">
+                        태양광 발전량 예측을 위한 유전 알고리즘 기반의 다중 지역 기상 데이터 최적화 기법 연구
+                        <a href="https://doi.org/10.5626/JOK.2025.52.8.688" class="link-btn" target="_blank">📄 논문 DOI 링크</a>
+                    </div>
+                    <div class="item-date">2025.08 게재</div>
+                </div>
+                <div class="item-sub">한국정보과학회논문지 (Journal of KIISE, KCI 등재지) | 제1저자 & 연구 총괄</div>
+                <div class="item-desc">
+                    <ul>
+                        <li><strong>연구 내용</strong>: 단일 지역 기상 데이터의 한계를 극복하고자 전남·충남·경기 25개 관측 도시의 11개 기상 변수 수집 및 시공간 임베딩 최적화 모델 개발.</li>
+                        <li><strong>수학적 최적화</strong>: LSTM 시계열 임베딩과 유전 알고리즘(GA) 기반 공간 가중치 최적화($w_i \ge 0$) 파이프라인 단독 구현.</li>
+                        <li><strong>실험 성과</strong>: SOTA 시계열 예측 모델(BasisFormer, TSMixer) 및 최적화 기법(PSO, BO) 대비 뛰어난 예측 정확도(MSE 0.201, $R^2$ 0.688) 검증.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Research Experience -->
+        <div class="section">
+            <div class="section-title">연구 경력 (Research Experience)</div>
+            <div class="item">
+                <div class="item-header">
+                    <div class="item-title">APC Lab 학부연구생</div>
+                    <div class="item-date">2024.06 ~ 2024.11</div>
+                </div>
+                <div class="item-sub">한림대학교 데이터사이언스학부 | 연구 총괄</div>
+                <div class="item-desc">
+                    <ul>
+                        <li>다중 지역 기상 데이터의 공간적 인과성에 주목하여 LSTM-GA 최적화 모델 총괄 설계.</li>
+                        <li>해안성 기후의 습도가 태양광 발전 효율 저하에 미치는 기후적 영향을 정량 식별하여 KCI 등재지 제1저자 게재 완수.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="item-header">
+                    <div class="item-title">MMC Lab 학부연구생</div>
+                    <div class="item-date">2024.12 ~ 2025.06</div>
+                </div>
+                <div class="item-sub">한림대학교 소프트웨어융합대학 | 비전 & Embodied AI 스터디</div>
+                <div class="item-desc">
+                    <ul>
+                        <li>U-Net 기반 이미지 인페인팅/복원 모델 설계 및 최적화 수행 <a href="https://swweek.hallym.ac.kr/html/contest_05_01.php" class="link-btn" target="_blank">🏆 동상 수상 증빙</a>.</li>
+                        <li>ViT, PointNet, YOLOv5 등 3D 공간 지능 모델 분석 및 RT-1, PaLM-E, World Models, DreamerV3 아키텍처 논문 독해 주도.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Work Experience & Projects -->
+        <div class="section">
+            <div class="section-title">실무 경력 및 프로젝트 (Work & Projects)</div>
+            <div class="item">
+                <div class="item-header">
+                    <div class="item-title">근로복지공단 AI 솔루션 개발자 & 데이터 엔지니어 인턴</div>
+                    <div class="item-date">2023.06 ~ 2024.01 (7개월)</div>
+                </div>
+                <div class="item-sub">보험급여지급부 & 업무상질병부</div>
+                <div class="item-desc">
+                    <ul>
+                        <li><strong>유사 판정서 추천 서비스</strong>: 웹 크롤러(Selenium) 구축, Pseudo-Labeling을 통한 상병 코드 정제, BERT 파인튜닝 요약 및 Cosine Similarity 실시간 추천 파이프라인 개발
+                            <a href="https://drive.google.com/file/d/17X7JKs13GTzpM5Sx1IrptOPqvL3Da-Qa/view?usp=sharing" class="link-btn" target="_blank">📂 유사판정서 구글드라이브</a>
+                            <span class="link-btn">🏆 근로복지연구원장상 수상</span>
+                        </li>
+                        <li><strong>산업재해 신속 처리 서비스 '산재Pass'</strong>: 현장 담당자 인터뷰로 병목 도출, Rule-based 신속 분류 및 LightGBM/SMOTE ML 파이프라인 기획/개발
+                            <a href="https://docs.google.com/presentation/d/1Jogcw5HnfyeSrP0vSH_vy-2Vbs50Su3I/edit?usp=drive_link&ouid=115728767509673934453&rtpof=true&sd=true" class="link-btn" target="_blank">📊 산재Pass 발표자료 구글드라이브</a>
+                            <a href="https://moel.go.kr/news/enews/report/enewsView.do?news_seq=15837" class="link-btn" target="_blank">📰 고용노동부 보도자료</a>
+                            <span class="link-btn">🏆 대한상공회의소 표창</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="item-header">
+                    <div class="item-title">AWS DeepRacer Championship 자율주행 강화학습 프로젝트</div>
+                    <div class="item-date">2024, 2025 (2년 연속)</div>
+                </div>
+                <div class="item-sub">강원정보문화산업진흥원 & AWS</div>
+                <div class="item-desc">
+                    <ul>
+                        <li>PPO(Proximal Policy Optimization) 기반 강화학습 자율주행 모델 학습 및 차체 하드웨어 이식(Sim-to-Real Deployment).</li>
+                        <li>차선 이탈 방지 및 속도 최적화 보상 함수(Reward Function) 설계.</li>
+                        <li><strong>성과</strong>: 춘천 대회 8위 / 58팀 (2024), 17위 / 100팀 (2025) 상위권 진출.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Awards & Certifications -->
+        <div class="section">
+            <div class="section-title">수상 및 자격 사항 (Awards & Certifications)</div>
+            <div class="item-desc">
+                <ul>
+                    <li><strong>대한상공회의소 표창 (장려상)</strong> - 미래내일 일경험 사업 우수 사례 공모전 (2023.11)</li>
+                    <li><strong>근로복지연구원장상 (표창장)</strong> - 근로복지공단 연구원 (2023.12)</li>
+                    <li><strong>한림대학교 AI 경진대회 동상</strong> - 이미지 복원 U-Net 모델 설계 (2024.11)</li>
+                    <li><strong>SQLD (SQL 개발자)</strong> - Kdata 한국데이터산업진흥원 (2024.04)</li>
+                    <li><strong>ADsP (데이터분석준전문가)</strong> - Kdata 한국데이터산업진흥원 (2024.03)</li>
+                    <li><strong>MOS Master (Microsoft Office Specialist)</strong> - Microsoft (2025.06)</li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>

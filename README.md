@@ -33,8 +33,7 @@
   - [산업재해 신속 처리를 위한 산재패스 서비스 (장려상)](https://moel.go.kr/news/enews/report/enewsView.do?news_seq=15837)
     
 - **근로복지 연구원(2024.01.16)**  
-  - 재해조사 담당자의 업무 효율화를 위한 유사 판정서 추천 서비스 (근로복지 연구원장상)
-    
+- 재해조사 담당자의 업무 효율화를 위한 유사 판정서 추천 서비스 (근로복지 연구원장상) [![상장 보기](https://img.shields.io/badge/Award-Certificate-yellow?style=flat-square&logo=googlephotos&logoColor=white)](./temp/IMG_9917.JPG)    
 - **AI 결합 좋은 수업 추천하기 공모전**
   - 우수상
 

@@ -7,8 +7,6 @@
 ## About Me
 저는 **소통과 협력을 중시하는** 전진만입니다.<br/>
 **머신러닝과 로봇틱스**에 큰 관심을 가지고 있습니다.  
-
-- 📄 **이력서 (CV):** [![CV PDF](https://img.shields.io/badge/Resume-PDF_View-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./CV_Jinman_Jeon.pdf)
 - 🌱 **현재 배우고 있는 것:** [Robotics, LLM, VLA(Vision Language Action Model)]  
 - 👯 **협업을 원하신다면:** [ggzgcode10000@gmail.com]로 연락주세요.  
 - ⚡ **취미:** [음악 감상, 영화 감상, 여행]
@@ -43,14 +41,14 @@
   - 우수상
 
 - **교내 AI경진대회**
-  - U-NET 구조를 활용한 인쇄 얼룩 제거 동상🥉
+  - 인쇄 얼룩 제거 동상🥉
 
 ## Paper
-- [**전진만, 최종환*. "태양광 발전량 예측을 위한 유전자 알고리즘 기반의 다중 지역 기상 데이터 최적화 기법 연구." 정보과학회논문지 52.8 (2025): 688-699**](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003231878)[cite: 1]
+- [**전진만, 최종환*. "태양광 발전량 예측을 위한 유전자 알고리즘 기반의 다중 지역 기상 데이터 최적화 기법 연구." 정보과학회논문지 52.8 (2025): 688-699**](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003231878)
 
 ## Certifications
-- **ADSP (데이터 분석 준전문가)**: [2024년 03월 22일, 한국데이터산업진흥원][cite: 1]
-- **SQLD (SQL 개발자)**: [2024년 04월 05일, 한국데이터산업진흥원][cite: 1]
+- **ADSP (데이터 분석 준전문가)**: [2024년 03월 22일, 한국데이터산업진흥원]
+- **SQLD (SQL 개발자)**: [2024년 04월 05일, 한국데이터산업진흥원]
 
 ## GitHub Stats
 <!-- GitHub 통계 카드 (사용자명 수정 필요) -->
@@ -62,4 +60,3 @@
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/codeman-jiggag-070652286/)
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=ghost)](https://zgzgcode10000.tistory.com/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./CV_Jinman_Jeon.pdf)
